@@ -16,6 +16,8 @@ var sprite;
 //var player;
 //var enemy;
 
+//var test;
+
 function create() {
 
     map = game.add.tilemap('map');
