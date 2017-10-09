@@ -16,7 +16,6 @@ var sprite;
 //var player;
 //var enemy;
 
-//var test;
 
 function create() {
 
