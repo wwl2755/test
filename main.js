@@ -14,7 +14,6 @@ var layer;
 var cursors;
 var sprite;
 //var player;
-//var enemy;
 
 
 function create() {
