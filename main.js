@@ -7,7 +7,6 @@ function preload() {
 
 }
 
-var map;
 var layer;
 var cursors;
 var sprite;
